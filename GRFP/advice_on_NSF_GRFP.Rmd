@@ -1,5 +1,5 @@
 ---
-title: "Tips for writing a NSF GRFP"
+title: "Tips for writing an NSF GRFP"
 author: "Mark Scheuerell"
 date: "21 September 2022"
 output:
