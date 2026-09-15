@@ -1,7 +1,7 @@
 ---
 title: "Tips for writing an NSF GRFP"
 author: "Mark Scheuerell"
-date: "21 September 2022"
+date: "15 September 2026"
 output:
   ioslides_presentation:
     css: lecture_slides.css
@@ -20,9 +20,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Why am I here?
 
-* Associate Editor, _Ecological Research_ (2007-2017)
+* Editor, _Ecological Research_ (2007-2017)
 
-* Associate Editor, _Limnology and Oceanography Letters_ (2016-present)
+* Editor, _Limnology and Oceanography Letters_ (2016-present)
 
 * Former panel member, NSF GRFP program
 
@@ -175,7 +175,9 @@ How well qualified is the individual (institution) to conduct the proposed activ
 
 > - Start early & get feedback
 
-> - For example, Markus and I worked over **9** drafts of his personal statement & **11** drafts of his research statement
+> - For example, I have/had 3 current/former students with GRFP's
+
+> - We worked over ~**10** drafts of their personal & research statements
 
 
 ## Feel proud
@@ -183,9 +185,4 @@ How well qualified is the individual (institution) to conduct the proposed activ
 * Rejection is common, but know that you gave your best
 
 > - Failed proposals are great fodder for future proposals
-
-
-## Questions?
-
-You can reach me at scheuerl@uw.edu or find me in FSH 220A
 
